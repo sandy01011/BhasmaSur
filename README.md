@@ -1,2 +1,2 @@
-# BhasmaSur
-To collect data over the network
+# dataTransporter
+To collect data over the network over multiple protocols
